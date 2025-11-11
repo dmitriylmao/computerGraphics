@@ -1,0 +1,11 @@
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab1\Lab1\obj\Debug\Lab1.exe.config
