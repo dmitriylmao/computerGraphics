@@ -38,7 +38,7 @@ namespace Lab1
         {
             double xMin = -10.0;
             double xMax = 10.0;
-            double step = (xMax - xMin) / width;
+            double step = (xMax - xMin) / width; //расстояние по x между соседними пикселями
 
             List<double> yValues = new List<double>();
 
@@ -50,7 +50,7 @@ namespace Lab1
             }
 
             double yMin = yValues.Min();
-            double yMax = yValues.Max();
+            double yMax = yValues.Max();    //для нормализации по вертикали, чтоб растянуть график на всю высоту окна
 
             if (Math.Abs(yMax - yMin) < 0.0001)
             {
@@ -108,7 +108,7 @@ namespace Lab1
 
             PlotGraph(g, width, height, currentFunction);
         }
-
+ 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 

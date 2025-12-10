@@ -1,0 +1,10 @@
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\bin\Debug\lab5.exe.config
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\bin\Debug\lab5.exe
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\bin\Debug\lab5.pdb
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.exe
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.pdb
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\lab5\obj\Debug\lab5.exe.config
