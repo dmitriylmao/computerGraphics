@@ -25,7 +25,6 @@ namespace Lab5_Graham
             g.Clear(Color.White);
             g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
 
-            // 1. Все точки
             const float r = 4f;
             using (var ptBrush = new SolidBrush(Color.Black))
             using (var ptPen = new Pen(Color.Black, 1f))
@@ -37,7 +36,6 @@ namespace Lab5_Graham
                 }
             }
 
-            // 2. Выпуклая оболочка, если посчитана
             if (_hull.Count >= 2)
             {
                 using (var hullPen = new Pen(Color.Red, 2f))

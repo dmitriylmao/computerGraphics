@@ -7,3 +7,4 @@ C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\indiv1\bin\Debu
 C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\indiv1\bin\Debug\indiv1.pdb
 C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\indiv1\obj\Debug\indiv1.exe
 C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\indiv1\obj\Debug\indiv1.pdb
+C:\Users\dimae\OneDrive\Рабочий стол\computerGraphics\indiv1\obj\Debug\indiv1.exe.config
